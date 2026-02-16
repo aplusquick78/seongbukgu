@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>성북구 퀵서비스 | 24시 에이플러스 신속한 배송 요금안내</title>
+  <link>https://seongbukgu.8222quick.com/</link>
+  <description>성북구 전지역(길음, 돈암, 정릉, 종암, 안암) 24시 퀵서비스 요금표 및 신속한 배송 서비스 안내</description>
+  <language>ko-KR</language>
+  <pubDate>Mon, 16 Feb 2026 13:30:00 +0900</pubDate>
+  <lastBuildDate>Mon, 16 Feb 2026 13:30:00 +0900</lastBuildDate>
+  <atom:link href="https://seongbukgu.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>성북구 퀵서비스 전지역 24시 신속한 배송 시스템 가동</title>
+    <link>https://seongbukgu.8222quick.com/index.html</link>
+    <description>성북구 전역 오토바이, 다마스, 라보 퀵서비스. 길음뉴타운 및 대학가 전담 기사 상시 대기로 신속한 배송을 원칙으로 합니다.</description>
+    <category>서비스안내</category>
+    <pubDate>Mon, 16 Feb 2026 13:30:00 +0900</pubDate>
+    <guid>https://seongbukgu.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>성북구 오토바이 퀵서비스 요금 - 기본 8,000원부터</title>
+    <link>https://seongbukgu.8222quick.com/money.html</link>
+    <description>급한 서류 및 소형 소화물 전용. 성북구 내 근거리 이동 및 서울 전 지역 거리 비례 정찰제 적용. 접수 즉시 신속한 배송.</description>
+    <category>요금안내</category>
+    <pubDate>Mon, 16 Feb 2026 13:30:00 +0900</pubDate>
+    <guid>https://seongbukgu.8222quick.com/money.html#bike</guid>
+  </item>
+
+  <item>
+    <title>성북구 다마스 및 라보 퀵 가격 - 학생이사/기업화물 특화</title>
+    <link>https://seongbukgu.8222quick.com/money.html</link>
+    <description>다마스 25,000원~, 라보 35,000원~. 안암동/정릉동 대학가 학생 원룸 이사 및 주거단지 가전 배송 전문. 신속한 배송 보장.</description>
+    <category>요금안내</category>
+    <pubDate>Mon, 16 Feb 2026 13:30:00 +0900</pubDate>
+    <guid>https://seongbukgu.8222quick.com/money.html#car</guid>
+  </item>
+
+  <item>
+    <title>성북구 퀵서비스 카드 결제 및 법인 세금계산서 발행 안내</title>
+    <link>https://seongbukgu.8222quick.com/money.html</link>
+    <description>모든 차종 카드 결제 가능. 기업 전용 후불제 및 전자 세금계산서 발행 지원으로 편리하고 신속한 배송 이용이 가능합니다.</description>
+    <category>결제서비스</category>
+    <pubDate>Mon, 16 Feb 2026 13:30:00 +0900</pubDate>
+    <guid>https://seongbukgu.8222quick.com/money.html#payment</guid>
+  </item>
+</channel>
+</rss>
